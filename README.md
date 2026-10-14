@@ -37,5 +37,3 @@
 ## Stats
 
 ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=asm0619)
-
-![snake](https://raw.githubusercontent.com/SeongmoAhn/SeongmoAhn/output/github-contribution-grid-snake.svg)
