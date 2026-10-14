@@ -34,6 +34,3 @@
 
 <br>
 
-## Stats
-
-![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=asm0619)
